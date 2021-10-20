@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Mapple/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Mapple/app/src/main/res/layout/item_todo.xml" value="0.1296875" />
         <entry key="..\:/Users/user/AndroidStudioProjects/TodoList/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/user/AndroidStudioProjects/TodoList/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/TodoList/app/src/main/res/layout/item_todo.xml" value="0.22239583333333332" />
